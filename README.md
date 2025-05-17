@@ -26,8 +26,8 @@ An AI-powered Telegram bot that delivers quick, clever jokes based on any topic 
 * **Railway** (for deployment)
 
 ## 📦 **Run Locally**
-
-git clone https://github.com/ImaraMoh/TelegramBot.git
+```bash
+https://github.com/ImaraMoh/TelegramBot.git
 cd TelegramBot
 pip install -r requirements.txt
 python app.py
