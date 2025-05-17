@@ -1,29 +1,35 @@
-# 🤖 Telegram Joke Bot
 
-A fun AI-powered Telegram bot that generates jokes based on any topic you give it!
+# 🤖 **Telegram Joke Bot**
 
-## ✨ Features
-- Just mention the bot with a topic (e.g., `@ImmuJokeBot python`)
-- Replies with a joke instantly
-- Powered by Langchain + Groq AI
-- Deployed on Railway
+An AI-powered Telegram bot that delivers quick, clever jokes based on any topic you send!
 
-## 🚀 How to Use
-1. Go to Telegram and search for `@ImmuJokeBot`
-2. Mention the bot with a topic:  
+## ✨ **What It Does**
+
+* Mention the bot with a topic (e.g., `@ImmuJokeBot python`)
+* Instantly responds with a unique joke
+* Built using **LangChain** and **Groq AI**
+* Hosted via **Railway**
+
+## 🚀 **How to Use**
+
+1. Open Telegram and search for `@ImmuJokeBot`
+2. Mention the bot with a topic like:
    `@ImmuJokeBot coffee`
-3. Get a funny joke back instantly!
+3. Get a hilarious joke right away!
 
-## 🛠️ Tech Stack
-- Python
-- Langchain
-- Groq API
-- python-telegram-bot
-- Railway (for deployment)
+## 🛠️ **Tech Stack**
 
-## 📦 Setup Locally
-```bash
-https://github.com/ImaraMoh/TelegramBot.git
+* **Python**
+* **LangChain**
+* **Groq API**
+* **python-telegram-bot**
+* **Railway** (for deployment)
+
+## 📦 **Run Locally**
+
+git clone https://github.com/ImaraMoh/TelegramBot.git
 cd TelegramBot
 pip install -r requirements.txt
 python app.py
+
+
